@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Lev/projects/firefox-background-random/src/editCSSFile.cpp" "CMakeFiles/background-randomizer-firefox.dir/src/editCSSFile.cpp.obj" "gcc" "CMakeFiles/background-randomizer-firefox.dir/src/editCSSFile.cpp.obj.d"
   "C:/Users/Lev/projects/firefox-background-random/src/main.cpp" "CMakeFiles/background-randomizer-firefox.dir/src/main.cpp.obj" "gcc" "CMakeFiles/background-randomizer-firefox.dir/src/main.cpp.obj.d"
+  "C:/Users/Lev/projects/firefox-background-random/src/randomPicName.cpp" "CMakeFiles/background-randomizer-firefox.dir/src/randomPicName.cpp.obj" "gcc" "CMakeFiles/background-randomizer-firefox.dir/src/randomPicName.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

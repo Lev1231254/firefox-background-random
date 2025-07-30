@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/background-randomizer-firefox.dir/src/editCSSFile.cpp.obj.d"
   "CMakeFiles/background-randomizer-firefox.dir/src/main.cpp.obj"
   "CMakeFiles/background-randomizer-firefox.dir/src/main.cpp.obj.d"
+  "CMakeFiles/background-randomizer-firefox.dir/src/randomPicName.cpp.obj"
+  "CMakeFiles/background-randomizer-firefox.dir/src/randomPicName.cpp.obj.d"
   "background-randomizer-firefox.exe"
   "background-randomizer-firefox.exe.manifest"
   "background-randomizer-firefox.pdb"

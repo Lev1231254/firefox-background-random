@@ -176,6 +176,30 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\background-randomizer-firefox.dir\build.make CMakeFiles/background-randomizer-firefox.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/randomPicName.obj: src/randomPicName.cpp.obj
+.PHONY : src/randomPicName.obj
+
+# target to build an object file
+src/randomPicName.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\background-randomizer-firefox.dir\build.make CMakeFiles/background-randomizer-firefox.dir/src/randomPicName.cpp.obj
+.PHONY : src/randomPicName.cpp.obj
+
+src/randomPicName.i: src/randomPicName.cpp.i
+.PHONY : src/randomPicName.i
+
+# target to preprocess a source file
+src/randomPicName.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\background-randomizer-firefox.dir\build.make CMakeFiles/background-randomizer-firefox.dir/src/randomPicName.cpp.i
+.PHONY : src/randomPicName.cpp.i
+
+src/randomPicName.s: src/randomPicName.cpp.s
+.PHONY : src/randomPicName.s
+
+# target to generate assembly for a file
+src/randomPicName.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\background-randomizer-firefox.dir\build.make CMakeFiles/background-randomizer-firefox.dir/src/randomPicName.cpp.s
+.PHONY : src/randomPicName.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -191,6 +215,9 @@ help:
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/randomPicName.obj
+	@echo ... src/randomPicName.i
+	@echo ... src/randomPicName.s
 .PHONY : help
 
 

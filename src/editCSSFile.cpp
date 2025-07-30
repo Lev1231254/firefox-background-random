@@ -7,7 +7,6 @@
 
 void editCSSFile(const std::string& filename, const std::string& imgUrl) {
 
-
     // Step 1: Read the CSS file
     std::ifstream inputFile(filename);
 
@@ -25,7 +24,7 @@ void editCSSFile(const std::string& filename, const std::string& imgUrl) {
 
     // Step 2: Modify the CSS content
     // Example: Replace a color value
-    std::string startingPosWord = "background:";
+    std::string startingPosWord = "body::before";
 
     int pos = cssContent.find(startingPosWord) + startingPosWord.length();
     bool isReplaced = 0;
@@ -43,9 +42,9 @@ void editCSSFile(const std::string& filename, const std::string& imgUrl) {
 
             while (cssContent[pos] != ')') pos++;
 
-            int originalUrlLen = pos - first;
+            int origUrlLen = pos - first;
 
-            cssContent.replace(first, originalUrlLen, imgUrl);
+            cssContent.replace(first, origUrlLen, "\"" + imgUrl + "\"");
             isReplaced = true;
         }
 
@@ -62,5 +61,5 @@ void editCSSFile(const std::string& filename, const std::string& imgUrl) {
     outputFile << cssContent; // Write the modified content back to the file
     outputFile.close();
 
-    std::cout << "File edited succesfully\n";
+    std::cout << "File edited succesfully, set to \"" << imgUrl << "\"" <<  std::endl;
 }
