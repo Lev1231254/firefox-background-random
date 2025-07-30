@@ -1,0 +1,3 @@
+C:/Users/Lev/projects/firefox-background-random/out/build/GCC 15.1.0 x86_64-w64-mingw32 (ucrt64)/CMakeFiles/background-randomizer-firefox.dir
+C:/Users/Lev/projects/firefox-background-random/out/build/GCC 15.1.0 x86_64-w64-mingw32 (ucrt64)/CMakeFiles/edit_cache.dir
+C:/Users/Lev/projects/firefox-background-random/out/build/GCC 15.1.0 x86_64-w64-mingw32 (ucrt64)/CMakeFiles/rebuild_cache.dir
