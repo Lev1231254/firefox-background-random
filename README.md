@@ -22,7 +22,7 @@ In file **urls.txt** change first url to a path to your **userContent.css** file
 
 <h3>Step 3</h3>
 
-Launch program using **background-randomizer-firefox - Shortcut** or launch program and firefox simalteniously using launch with **firefox/launch_firefox_and_carousel.bat** (only for me, because it contains my paths)
+Launch program using **background-randomizer-firefox - Shortcut** or launch program and firefox simalteniously using launch with **firefox/launch_firefox_and_carousel.bat** (to use it you need to change paths there)
 
 
 IMPORTANT
