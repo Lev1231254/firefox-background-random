@@ -61,5 +61,5 @@ void editCSSFile(const std::string& filename, const std::string& imgUrl) {
     outputFile << cssContent; // Write the modified content back to the file
     outputFile.close();
 
-    std::cout << "File edited succesfully, set to \"" << imgUrl << "\"" <<  std::endl;
+    std::cout << "File edited succesfully, set to \"" << imgUrl << "\"" <<  std::endl << std::endl;
 }

@@ -62,7 +62,7 @@ std::vector<std::string> getAllPicsNames(const fs::path imgDir){
 
 void printAllPics(const std::vector<std::string> pics){
      for (int i = 0; i < pics.size(); i++) {
-        std::cout << "file " << i << ": " << pics[i] << std::endl;
+        std::cout << "\tfile " << i << ": " << pics[i] << std::endl;
     }
 }
 
