@@ -1,2 +1,72 @@
+Starting background-randomizer-firefox.exe... 
+Found 7 files succesfully
+	file 0: Astronaut drinks beer.jpg
+	file 1: Danko.PNG
+	file 2: god save us all.PNG
+	file 3: gotcha this time.png
+	file 4: spider-man.jpg
+	file 5: Swain_0.jpg
+	file 6: thorny devil.jpeg
+Current path: "C:\\Users\\Lev\\projects\\firefox-background-random\\launch with firefox"
+File edited succesfully, set to "img/spider-man.jpg"
 
+Starting background-randomizer-firefox.exe... 
+Found 7 files succesfully
+	file 0: Astronaut drinks beer.jpg
+	file 1: Danko.PNG
+	file 2: god save us all.PNG
+	file 3: gotcha this time.png
+	file 4: spider-man.jpg
+	file 5: Swain_0.jpg
+	file 6: thorny devil.jpeg
+Current path: "C:\\Users\\Lev\\projects\\firefox-background-random\\launch with firefox"
+File edited succesfully, set to "img/Swain_0.jpg"
+
+Starting background-randomizer-firefox.exe... 
+Found 7 files succesfully
+	file 0: Astronaut drinks beer.jpg
+	file 1: Danko.PNG
+	file 2: god save us all.PNG
+	file 3: gotcha this time.png
+	file 4: spider-man.jpg
+	file 5: Swain_0.jpg
+	file 6: thorny devil.jpeg
+Current path: "C:\\Users\\Lev\\projects\\firefox-background-random\\launch with firefox"
+File edited succesfully, set to "img/gotcha this time.png"
+
+Starting background-randomizer-firefox.exe... 
+Found 7 files succesfully
+	file 0: Astronaut drinks beer.jpg
+	file 1: Danko.PNG
+	file 2: god save us all.PNG
+	file 3: gotcha this time.png
+	file 4: spider-man.jpg
+	file 5: Swain_0.jpg
+	file 6: thorny devil.jpeg
+Current path: "C:\\Users\\Lev\\projects\\firefox-background-random\\launch with firefox"
+File edited succesfully, set to "img/gotcha this time.png"
+
+Starting background-randomizer-firefox.exe... 
+Found 7 files succesfully
+	file 0: Astronaut drinks beer.jpg
+	file 1: Danko.PNG
+	file 2: god save us all.PNG
+	file 3: gotcha this time.png
+	file 4: spider-man.jpg
+	file 5: Swain_0.jpg
+	file 6: thorny devil.jpeg
+Current path: "C:\\Users\\Lev\\projects\\firefox-background-random\\launch with firefox"
+File edited succesfully, set to "img/god save us all.PNG"
+
+Starting background-randomizer-firefox.exe... 
+Found 7 files succesfully
+	file 0: Astronaut drinks beer.jpg
+	file 1: Danko.PNG
+	file 2: god save us all.PNG
+	file 3: gotcha this time.png
+	file 4: spider-man.jpg
+	file 5: Swain_0.jpg
+	file 6: thorny devil.jpeg
+Current path: "C:\\Users\\Lev\\projects\\firefox-background-random\\launch with firefox"
+File edited succesfully, set to "img/spider-man.jpg"
 
