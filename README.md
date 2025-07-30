@@ -2,7 +2,7 @@ This is an app, that changes background image in firefox randomly https://youtu.
 
 <h2># Installation</h2>
 
-Download repository using git or github
+Download repository by using git or github
 
 
 <h2># Usage</h2>
