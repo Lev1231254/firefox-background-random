@@ -1,8 +1,8 @@
-This is an app, that changes background image in firefox randomly
+This is an app, that changes background image in firefox randomly https://youtu.be/k-tnVRbKdys
 
 <h2># Installation</h2>
 
-Download repository using git or github
+Download repository by using git or github
 
 
 <h2># Usage</h2>
@@ -22,7 +22,4 @@ In file **urls.txt** change first url to a path to your **userContent.css** file
 
 <h3>Step 3</h3>
 
-Launch program using **background-randomizer-firefox - Shortcut** or launch program and firefox simalteniously using launch with **firefox/launch_firefox_and_carousel.bat** (only for me, because it contains my paths)
-
-
-IMPORTANT
+Launch program using **background-randomizer-firefox - Shortcut** or launch program and firefox simalteniously using launch with **firefox/launch_firefox_and_carousel.bat** (to use it you need to change paths there)
